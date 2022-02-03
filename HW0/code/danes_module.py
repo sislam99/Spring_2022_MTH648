@@ -26,7 +26,7 @@ def factorial(x):
         float: Returns :math:`y=x!`
     """
 	temp=1
-	for i in range(1,x):
+	for i in range(1,x+1):
 		temp*=i
 	return (temp)
 	
