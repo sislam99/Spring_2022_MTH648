@@ -1,7 +1,7 @@
 Homework 0 will train us to use organize our code, document it, and use GitHub.
 
 Our documentation is here:
-https://2022-mth-648.readthedocs.io/en/latest/
+https://spring-2022-mth648.readthedocs.io/en/latest/
 
 For help on documentation with Sphinx and Read the docs, see:
 https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
