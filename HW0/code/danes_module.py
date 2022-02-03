@@ -28,4 +28,16 @@ def times_by_3(x):
 
 	return 3*x
 
+def divide_by_4(x):
+    """
+    Dane's second function.
+
+    Args:
+        x (float): Some number.
+
+    Returns:
+        float: Returns :math:`y=x/4`
+    """
+
+    return x/4
 	
