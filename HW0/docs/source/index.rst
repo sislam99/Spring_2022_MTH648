@@ -12,7 +12,6 @@ Our Collaborative Codebase for Homework 0
 
    HW0_assignment
    danes_documentation
-   jeremys_documentation
 
 
 Indices and tables
