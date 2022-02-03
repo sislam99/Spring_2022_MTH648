@@ -21,6 +21,6 @@ Below is an example for how to use these functions.
 
     times_by_3(2)
 
-
+    divide_by_4(8)
 
     
