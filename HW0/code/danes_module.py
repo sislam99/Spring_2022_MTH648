@@ -1,43 +1,32 @@
-# Dane's module contains dane's functions
+# Makenzie's module contains Makenzie's functions
 
 import numpy as np
 
-def square_a_number(x):
+def log_of(x):
 	"""
-    Dane's first function.
+    Makenzie's first function.
 
     Args:
         x (float): Some number.
 
     Returns:
-        float: Returns :math:`y=x^2`
+        float: Returns :math:`y=ln(x)`
     """
 
-	return x**2
+	return np.log(x)
 
-def times_by_3(x):
+def factorial(x):
 	"""
-    Dane's second function.
+    Makenzie's second function.
 
     Args:
-        x (float): Some number.
+        x (int): Some number.
 
     Returns:
-        float: Returns :math:`y=3x`
+        float: Returns :math:`y=x!`
     """
-
-	return 3*x
-
-def divide_by_4(x):
-    """
-    Dane's second function.
-
-    Args:
-        x (float): Some number.
-
-    Returns:
-        float: Returns :math:`y=x/4`
-    """
-
-    return x/4
+	temp=1
+	for i in range(1,x):
+		temp*=i
+	return (temp)
 	
