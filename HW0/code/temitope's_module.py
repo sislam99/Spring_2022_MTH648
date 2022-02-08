@@ -32,7 +32,10 @@ def times_by_5(x):
 
 def pipe_flow(diameter, depth, slope, roughness_n= 0.045):
         
-    """Calculates flow in a pipe.
+    """
+    Temitope Benson's third function.
+
+    Calculates flow in a pipe.
 
     Args:
         diameter: Pipe diameter in inches or cm.
