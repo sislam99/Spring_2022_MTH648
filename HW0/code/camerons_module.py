@@ -2,13 +2,7 @@
 
 import numpy as np
 
-<<<<<<< HEAD
 def random_integer(x):
-=======
-#test for forking
-
-def square_a_number(x):
->>>>>>> d632b476d1de2e8b982e6ccded59a699e7d173be
 	"""
     Cameron's first function.
 
