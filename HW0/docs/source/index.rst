@@ -12,6 +12,7 @@ Our Collaborative Codebase for Homework 0
 
    HW0_assignment
    danes_documentation
+   lucasic_documentation
    camerons_documentation
    temitopes_documentation
    jeremys_documentation
