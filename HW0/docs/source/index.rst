@@ -13,6 +13,11 @@ Our Collaborative Codebase for Homework 0
    HW0_assignment
    danes_documentation
    saifuls_documentation
+   lucasic_documentation
+   camerons_documentation
+   temitopes_documentation
+   jeremys_documentation
+   jie_documentation
 
 
 Indices and tables
