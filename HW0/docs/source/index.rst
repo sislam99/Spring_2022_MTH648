@@ -16,6 +16,7 @@ Our Collaborative Codebase for Homework 0
    camerons_documentation
    temitopes_documentation
    jeremys_documentation
+   jie_documentation
 
 
 Indices and tables
